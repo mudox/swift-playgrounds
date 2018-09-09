@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Subscription'/>
+        <page name='Image Processing'/>
+        <page name='Closure'/>
+        <page name='URLSession Task States'/>
+        <page name='KeyPath'/>
+        <page name='Data Formatting'/>
+        <page name='OptionSet'/>
+        <page name='Visual Format Language'/>
+        <page name='Dictionary'/>
+        <page name='Queue'/>
+        <page name='List'/>
+        <page name='Labels can be omitted'/>
+        <page name='Protocol Auto-synthesis'/>
+        <page name='Protocol'/>
+        <page name='Optional'/>
+        <page name='Formatters'/>
+        <page name='Jack scoped'/>
+        <page name='Codable'/>
+        <page name='Metatype value'/>
+        <page name='Mirror'/>
+        <page name='keyPath KVO'/>
+        <page name='Date'/>
+        <page name='Enum, OptionSet Codable'/>
+        <page name='Parse Pagination'/>
+        <page name='Locale'/>
+        <page name='Decoding Date'/>
+    </pages>
+</playground>
