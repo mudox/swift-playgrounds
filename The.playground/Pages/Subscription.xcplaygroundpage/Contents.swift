@@ -11,3 +11,5 @@ play("external label must be specified explicitly") {
   let a = A()
   a[arg1: 2, arg2: "mudox"]
 }
+
+// 2 or 3 spans
